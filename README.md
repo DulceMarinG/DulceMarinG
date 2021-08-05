@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DulceMarinG
 - 👀 I’m interested in how works the tech universe, also a little anime
 - 🌱 I’m currently learning GitHub, Python...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with a club of data science
 - 📫 How to reach me dmaringalicia@gmail.com
 
 <!---
