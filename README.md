@@ -2,8 +2,9 @@ Hello World 🗺️ 🌎
 
 
 - 👋 Hi, I’m @DulceMarinG
-- 👀 I’m interested in how works the tech universe, also a little anime
-- 🌱 I’m currently learning GitHub, Python...
+- 👩‍🏭 I'm a Site Reliability Engineer 
+- 👀 I’m interested in how works the tech universe, and also a little anime
+- 🌱 I’m currently learning GitHub, Python, Cloud, Teraform, Kubernetes...
 - 💞️ I’m looking to collaborate with a club of data science
 - 📫 How to reach me dmaringalicia@gmail.com
 
